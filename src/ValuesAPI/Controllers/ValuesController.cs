@@ -9,14 +9,14 @@ public class ValuesController : ControllerBase
     [HttpGet]
     public IEnumerable<string> Get()
     {
-        return new string[] { "value1", "value2" };
+        return new string[] { "Mahmoud Hefny", "Papa John's" };
     }
 
     // GET api/values/5
     [HttpGet("{id}")]
     public string Get(int id)
     {
-        return "value";
+        return "Some value";
     }
 
     // POST api/values
@@ -35,5 +35,19 @@ public class ValuesController : ControllerBase
     [HttpDelete("{id}")]
     public void Delete(int id)
     {
+    }
+
+    [HttpGet("Hind")]
+    public string Hind()
+    {
+        Random rnd = new Random();
+        var words = new List<string>
+        {
+            "Hind is awesome",
+            "Hind will be the best surgent",
+            "Good Luck with your studies",
+            "YOU ARE THE BEST <3"
+        };
+        return words[rnd.Next(words.Count)];
     }
 }

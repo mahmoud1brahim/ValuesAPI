@@ -464,11 +464,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\Mahmoud\\Development\\Widebot\\ValuesAPI\\src\\ValuesAPI\\ValuesAPI.csproj",
+      "projectUniqueName": "E:\\Mahmoud\\Development\\Widebot\\ValuesAPI\\src\\ValuesAPI\\ValuesAPI.csproj",
       "projectName": "ValuesAPI",
-      "projectPath": "e:\\Mahmoud\\Development\\Widebot\\ValuesAPI\\src\\ValuesAPI\\ValuesAPI.csproj",
+      "projectPath": "E:\\Mahmoud\\Development\\Widebot\\ValuesAPI\\src\\ValuesAPI\\ValuesAPI.csproj",
       "packagesPath": "C:\\Users\\Mahmoud\\.nuget\\packages\\",
-      "outputPath": "e:\\Mahmoud\\Development\\Widebot\\ValuesAPI\\src\\ValuesAPI\\obj\\",
+      "outputPath": "E:\\Mahmoud\\Development\\Widebot\\ValuesAPI\\src\\ValuesAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mahmoud\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -512,12 +512,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Crossgen2.win-x64",
-            "version": "[6.0.2, 6.0.2]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"

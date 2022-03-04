@@ -1,0 +1,14 @@
+E:\Mahmoud\Development\Widebot\ValuesAPI\src\ValuesAPI\obj\Release\net6.0\PubTmp\Out\ValuesAPI.exe
+E:\Mahmoud\Development\Widebot\ValuesAPI\src\ValuesAPI\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+E:\Mahmoud\Development\Widebot\ValuesAPI\src\ValuesAPI\obj\Release\net6.0\PubTmp\Out\appsettings.json
+E:\Mahmoud\Development\Widebot\ValuesAPI\src\ValuesAPI\obj\Release\net6.0\PubTmp\Out\aws-lambda-tools-defaults.json
+E:\Mahmoud\Development\Widebot\ValuesAPI\src\ValuesAPI\obj\Release\net6.0\PubTmp\Out\ValuesAPI.dll
+E:\Mahmoud\Development\Widebot\ValuesAPI\src\ValuesAPI\obj\Release\net6.0\PubTmp\Out\ValuesAPI.deps.json
+E:\Mahmoud\Development\Widebot\ValuesAPI\src\ValuesAPI\obj\Release\net6.0\PubTmp\Out\ValuesAPI.runtimeconfig.json
+E:\Mahmoud\Development\Widebot\ValuesAPI\src\ValuesAPI\obj\Release\net6.0\PubTmp\Out\ValuesAPI.pdb
+E:\Mahmoud\Development\Widebot\ValuesAPI\src\ValuesAPI\obj\Release\net6.0\PubTmp\Out\Amazon.Lambda.APIGatewayEvents.dll
+E:\Mahmoud\Development\Widebot\ValuesAPI\src\ValuesAPI\obj\Release\net6.0\PubTmp\Out\Amazon.Lambda.ApplicationLoadBalancerEvents.dll
+E:\Mahmoud\Development\Widebot\ValuesAPI\src\ValuesAPI\obj\Release\net6.0\PubTmp\Out\Amazon.Lambda.AspNetCoreServer.dll
+E:\Mahmoud\Development\Widebot\ValuesAPI\src\ValuesAPI\obj\Release\net6.0\PubTmp\Out\Amazon.Lambda.Core.dll
+E:\Mahmoud\Development\Widebot\ValuesAPI\src\ValuesAPI\obj\Release\net6.0\PubTmp\Out\Amazon.Lambda.Logging.AspNetCore.dll
+E:\Mahmoud\Development\Widebot\ValuesAPI\src\ValuesAPI\obj\Release\net6.0\PubTmp\Out\Amazon.Lambda.Serialization.SystemTextJson.dll

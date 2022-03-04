@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f0F1JxpcM2D2ORresafVX/OdQnpiw2efrvjVTCb5hACy2MTxOHuClTktI798nbARHdmUyjzr+lMwnMXSzLhxWw==",
+  "dgSpecHash": "MU5r3ydXtMs6gBF0LQl4oL3fe5TP8lBU1txOQjqHGg2fytX5GFJJYiGvIjsHzERfMWxvNgB9jmhs5h+T+0TuNg==",
   "success": true,
-  "projectFilePath": "e:\\Mahmoud\\Development\\Widebot\\ValuesAPI\\src\\ValuesAPI\\ValuesAPI.csproj",
+  "projectFilePath": "E:\\Mahmoud\\Development\\Widebot\\ValuesAPI\\src\\ValuesAPI\\ValuesAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mahmoud\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.4.0\\amazon.lambda.apigatewayevents.2.4.0.nupkg.sha512",
     "C:\\Users\\Mahmoud\\.nuget\\packages\\amazon.lambda.applicationloadbalancerevents\\2.1.0\\amazon.lambda.applicationloadbalancerevents.2.1.0.nupkg.sha512",
@@ -19,8 +19,7 @@
     "C:\\Users\\Mahmoud\\.nuget\\packages\\microsoft.extensions.options\\2.1.0\\microsoft.extensions.options.2.1.0.nupkg.sha512",
     "C:\\Users\\Mahmoud\\.nuget\\packages\\microsoft.extensions.primitives\\2.1.0\\microsoft.extensions.primitives.2.1.0.nupkg.sha512",
     "C:\\Users\\Mahmoud\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
-    "C:\\Users\\Mahmoud\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
-    "C:\\Users\\Mahmoud\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.2\\microsoft.netcore.app.crossgen2.win-x64.6.0.2.nupkg.sha512"
+    "C:\\Users\\Mahmoud\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }
